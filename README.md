@@ -1,4 +1,4 @@
-Project: Blog Theme
+Project: Blog Theme <br>
 Built a complete custom blog theme using PHP and WordPress from scratch. 
 Implemented template hierarchy (index.php, single.php, page.php), registered menus and theme supports and developed a custom post type (CPT) called "Projects". 
 Enabled post thumbnails and dynamic content rendering using WordPress loop. 
