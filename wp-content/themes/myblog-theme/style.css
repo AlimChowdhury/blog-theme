@@ -1,0 +1,25 @@
+/*
+Theme Name: MyBlog Theme
+Author: Alim Ullah
+Version: 1.0
+*/
+
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+header,
+footer {
+    background: #333;
+    color: white;
+    padding: 10px;
+}
+
+h1,
+h2 {
+    color: #222;
+}
